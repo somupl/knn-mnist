@@ -4,6 +4,8 @@
 
 Read about MNIST here: https://en.wikipedia.org/wiki/MNIST_database
 
+Questions about curse of dimensionality noted here.
+
 - Fork and clone this repo
 - Take the 60,000 handwritten TRAIN images load into Pandas
 - Take the 10,000 handwritten TEST images and compute accuracy for the dataset
