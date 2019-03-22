@@ -12,6 +12,7 @@ Read about MNIST here: https://en.wikipedia.org/wiki/MNIST_database
 - Try different amounts for "k" and see how that affects accuracy (hyperparameter)
 - Each image is 28x28 matrix
 - Convert this to a vector and use Euclidean distance (L2) to find its nearest neighbor
+- What is your accuracy for the test dataset?
 
 ### Website
 
