@@ -4,6 +4,7 @@
 
 Read about MNIST here: https://en.wikipedia.org/wiki/MNIST_database
 
+- Fork and clone this repo
 - Take the 60,000 handwritten TRAIN images load into Pandas
 - Take the 10,000 handwritten TEST images and compute accuracy for the dataset
   - For example you classified 9000 correctly
@@ -13,6 +14,7 @@ Read about MNIST here: https://en.wikipedia.org/wiki/MNIST_database
 - Each image is 28x28 matrix
 - Convert this to a vector and use Euclidean distance (L2) to find its nearest neighbor
 - What is your accuracy for the test dataset?
+- Push up your final code to github
 
 ### Website
 
